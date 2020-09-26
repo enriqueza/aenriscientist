@@ -7,7 +7,7 @@ navbar:
     - text: "Home"
       icon: fa-home
       href: index.html
-    - text: "Artwork"
+    - text: "Art Portfolio"
       href: https://marinebioartist.wixsite.com/marinebioart
     - text: "CV1"
       icon: fa-file-pdf-o
@@ -17,11 +17,11 @@ navbar:
       href: about.html  # CHANGE HERE OR DELETE ALL 3 LINES 
     - text: "Blog"
       icon: fa-rss
-      href: https://YOURGITHUB.github.io/blog/ 
+      href: https://aenriscientistblog.netlify.app/ 
   right:
     - text: "Contact me"
       icon: fa-envelope-o
-      href: mailto:enriqueza@g.cofc.edu                    # CHANGE HERE 
+      href: mailto:enri.al@outlook.com                    # CHANGE HERE 
     - text: "GitHub"
       icon: fa-github
       href: https://github.com/enriqueza 
