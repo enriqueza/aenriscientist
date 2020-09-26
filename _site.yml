@@ -1,0 +1,37 @@
+name: "ALEJANDRA ENRIQUEZ"                                # CHANGE HERE 
+output_dir: "."
+navbar:
+  title: "ALEJANDRA ENRIQUEZ"                             # CHANGE HERE 
+  type: inverse
+  left:
+    - text: "Home"
+      icon: fa-home
+      href: index.html
+    - text: "Artwork"
+      href: https://marinebioartist.wixsite.com/marinebioart
+    - text: "CV1"
+      icon: fa-file-pdf-o
+      href: cv.html
+    - text: "Poetry"
+      icon: fa-sun-o
+      href: about.html  # CHANGE HERE OR DELETE ALL 3 LINES 
+    - text: "Blog"
+      icon: fa-rss
+      href: https://YOURGITHUB.github.io/blog/ 
+  right:
+    - text: "Contact me"
+      icon: fa-envelope-o
+      href: mailto:enriqueza@g.cofc.edu                    # CHANGE HERE 
+    - text: "GitHub"
+      icon: fa-github
+      href: https://github.com/enriqueza 
+    - text: 'Instagram'
+      icon: fa-instagram
+      href: https://www.instagram.com/marinebioartist/ 
+    - text: "twitter"
+      icon: fa-twitter
+      href: https://twitter.com/AEnriscientist
+output:
+  html_document:
+    theme: cosmo
+    highlight: pygments

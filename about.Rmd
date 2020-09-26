@@ -1,0 +1,48 @@
+---
+output: html_document
+---
+---
+title: "My Poetry"
+---
+
+
+Waves are coming and going 
+
+Tides keep coming back
+
+And laughing at us
+
+Telling us we can't succeed
+
+But the farmer doesn't plant 
+
+their seed in unfertile soil
+
+Not in sand, where grains are washed away
+
+Not on rocky bare land
+
+where the soil is hardened and 
+
+Cracked
+
+But in a garden
+
+of cultivated soil.
+
+Where that same water
+
+From the Tides
+
+From the Waves
+
+To the Clouds
+
+To the earth
+
+reaches soft, supple soil
+
+And we use it
+
+To grow. 
+
